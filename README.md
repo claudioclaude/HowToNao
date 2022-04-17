@@ -57,7 +57,9 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 ---
 
 ### Choreoghrape's UI
-  ![UI](img/UI.png)
+
+![UI](img/UI.png)
+
 - ***Commands***\
   Here you can find all the commands that your NAO robot can execute. These are blocks that can be attached together to form a script, kind of like Scratch.
 
@@ -73,7 +75,19 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ---
 
+### Setup virtual robot
+
+- Click on <kbd>Edit > Preferences</kbd>\
+  ![Edit](img/virtual1.png)
+
+- Choose the correct NAO model and click <kbd>Ok</kbd> to confirm\
+  ![Nao version](img/virtual2.png)
+
+---
+
 ### Running a project
+
+
 
 ---
 
