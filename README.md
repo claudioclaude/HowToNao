@@ -10,7 +10,7 @@
 - [Choreographe UI](#choreographe-ui)
 - [Setting up a virtual robot](#setting-up-a-virtual-robot)
 - [Creating and running a project](#creating-and-running-a-project)
-- [Youtube tutorials](#youtube-tutorials)
+- [YouTube tutorials](#youtube-tutorials)
 - [Resources](#resources)
 
 ---
@@ -91,9 +91,9 @@ https://user-images.githubusercontent.com/42480082/163725934-db118552-6b19-4fc0-
 
 ---
 
-### Youtube tutorials
+### YouTube tutorials
 
-Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-) to a Youtube playlist that I found really useful to start learning how to use Choreographe.
+Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-) to a YouTube playlist that I found really useful to start learning how to use Choreographe.
 
 It includes tutorials on:
   - NAO's sensors and parts
@@ -109,4 +109,4 @@ I strongly recommend to check it out!
  - [Choreographe's official documentation](http://doc.aldebaran.com/1-14/software/choregraphe)
  - [Connecting NAO to the Internet](http://doc.aldebaran.com/2-1/nao/nao-connecting.html#connect-to-ethernet)
  - [Projects you can try on Nao](https://funlab.nd.edu/the-nao-base/special-movements/)
- - [Youtube tutorials](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-)
+ - [YouTube tutorials](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-)
