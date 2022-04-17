@@ -87,7 +87,7 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ### Running a project
 
-
+https://user-images.githubusercontent.com/42480082/163725934-db118552-6b19-4fc0-bb5b-30d7e319fb8b.mp4
 
 ---
 
