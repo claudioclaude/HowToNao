@@ -56,7 +56,20 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ---
 
-### Creating a project
+### Choreoghrape's UI
+  ![UI](img/UI.png)
+- ***Commands***\
+  Here you can find all the commands that your NAO robot can execute. These are blocks that can be attached together to form a script, kind of like Scratch.
+
+- ***Robot view***\
+  Here you can see the state of your NAO robot.\
+  If you don't have a physical robot connected to your computer, this window will be your virtual robot and with it you'll be able to see how your script is behaving.
+
+- ***Connection***\
+  Here you can connect Choreographe to your phisical robot or to a virtual robot.
+
+- ***Run/Stop***\
+  These buttons allow you to run or stop your script.
 
 ---
 
