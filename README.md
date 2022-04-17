@@ -97,6 +97,15 @@ https://user-images.githubusercontent.com/42480082/163725934-db118552-6b19-4fc0-
 
 ---
 
+### Youtube Tutorials
+
+Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-) to a Youtube playlist that we found really useful to start learning how to use Choreographe.\
+It includes tutorials on:
+- Choreographe's UI
+- Python Programming with NAO
+
+---
+
 ### Resources
  - [Choreographe's official documentation](http://doc.aldebaran.com/1-14/software/choregraphe)
  - [Connecting NAO to the Internet](http://doc.aldebaran.com/2-1/nao/nao-connecting.html#connect-to-ethernet)
