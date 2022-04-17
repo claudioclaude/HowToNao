@@ -99,10 +99,15 @@ https://user-images.githubusercontent.com/42480082/163725934-db118552-6b19-4fc0-
 
 ### Youtube Tutorials
 
-Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-) to a Youtube playlist that we found really useful to start learning how to use Choreographe.\
+Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfMhjZ3nJ-) to a Youtube playlist that we found really useful to start learning how to use Choreographe.
+
 It includes tutorials on:
-- Choreographe's UI
-- Python Programming with NAO
+  - NAO's sensors and parts
+  - Choreographe
+  - Python Programming
+  - Vision and Audio
+
+We strongly recommend to check it out!
 
 ---
 
