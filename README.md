@@ -18,12 +18,12 @@
 ### Installing Choreographe
 
 1. **Download the setup file**\
-  You can download the setup file [here](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares)
+  You can download the setup file [here](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares).
  
  2. **Run the installer**\
-   Run the file you just downloaded
+   Run the file you just downloaded.
    
-   *For a more detailed guide to the installation check the [official documentation](http://doc.aldebaran.com/1-14/software/installing.html)*
+   *For a more detailed guide to the installation check the [official documentation](http://doc.aldebaran.com/1-14/software/installing.html).*
 
 ---
 
@@ -74,7 +74,7 @@
 - Click on <kbd>Edit > Preferences</kbd>\
   ![Edit](img/virtual1.png)
 
-- Choose the correct NAO model and click <kbd>Ok</kbd> to confirm\
+- Choose the correct NAO model and click <kbd>Ok</kbd> to confirm.\
   ![Nao version](img/virtual2.png)
 
 ---
