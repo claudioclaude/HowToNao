@@ -1,4 +1,4 @@
-# HowTo - Nao
+# HowTo - NAO
 ![Nao](https://badgen.net/badge/Robot/Nao/blue)
 
 ---
