@@ -35,6 +35,25 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ### Connecting Choreographe to physical robot
 
+1. ***Cable connection***\
+  Connect NAO to the router with an Ethernet cable. Attach it from the back of its head to a spare port of the router or to a switch connected to the router.
+
+2. ***NAO's IP address***\
+  When you turn on NAO, he will start saying his IP address. Note it down and type it in a browser. You will access a webpage, from there you'll be able to configure his WIFI connection.
+
+3. ***Authentication***\
+  Once you loaded the webpage, you will be asked for authentication.
+    - Username: nao
+    - Default password: nao
+    
+    If login fails or if you have lost your password, visit this [link](http://doc.aldebaran.com/2-1/nao/webpage_access.html#opennao-password-lost-nao).
+
+4. ***Network Settings***\
+  When you reached NAO's webpage, select the network settings option and connect it to the WIFI.
+
+- **Why choosing a WIFI connection instead of a cable connection?**\
+  Connecting NAO to a WIFI network is highly recommended because he'll be able to move more freely, whithout having to pay attention to cables attached to him.
+
 ---
 
 ### Creating a project
@@ -47,4 +66,5 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ### Resources
  - [Choreographe's official documentation](http://doc.aldebaran.com/1-14/software/choregraphe)
+ - [Connecting NAO to the Internet](http://doc.aldebaran.com/2-1/nao/nao-connecting.html#connect-to-ethernet)
  - [Projects you can try on Nao](https://funlab.nd.edu/the-nao-base/special-movements/)
