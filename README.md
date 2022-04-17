@@ -75,7 +75,7 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ---
 
-### Setup virtual robot
+### Setting up a virtual robot
 
 - Click on <kbd>Edit > Preferences</kbd>\
   ![Edit](img/virtual1.png)
@@ -85,7 +85,13 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ---
 
-### Running a project
+### Creating and running a project
+
+To start creating a script, go into the *Commands* section and choose the commands that your NAO robot will have to execute.
+
+Make sure to connect the first block to the <kbd>onStart</kbd> connector and the last block to the <kbd>onStopped</kbd> connector.
+
+Below is a video tutorial to better understand how to create your first script.
 
 https://user-images.githubusercontent.com/42480082/163725934-db118552-6b19-4fc0-bb5b-30d7e319fb8b.mp4
 
