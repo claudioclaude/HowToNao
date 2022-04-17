@@ -97,9 +97,10 @@ Here is the [link](https://youtube.com/playlist?list=PLma9tC7VHPpi8Bz4i2P5FuMlfM
 
 It includes tutorials on:
   - NAO's sensors and parts
-  - Choreographe
-  - Python Programming
-  - Vision and Audio
+  - Choreographe basics
+  - Python programming in Choreographe
+  - Vision (Face recognition and NaoMarks)
+  - Audio and Speech Recognition
 
 I strongly recommend to check it out!
 
