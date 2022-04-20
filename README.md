@@ -32,7 +32,7 @@
 ### Installing Choreographe - Linux
 
 1. **Download the setup file**\
-  If you're installing Choreographe on a Linux machine, it's better to donwload the binaries.\
+  If you're installing Choreographe on a Linux machine, it's better to donwload the binaries and install them by command line.\
   You can download the binaries [here](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares).
  
  2. **Install the binaries by command line**
