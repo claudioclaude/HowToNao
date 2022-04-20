@@ -5,7 +5,8 @@
 
 ## Content
 
-- [Installing Choreographe](#installing-choreographe)
+- [Installing Choreographe - Windows](#installing-choreographe---windows)
+- [Installing Choreographe - Linux](#installing-choreographe---linux)
 - [Connecting Choreographe to physical robot](#connecting-choreographe-to-physical-robot)
 - [Choreographe UI](#choreographe-ui)
 - [Setting up a virtual robot](#setting-up-a-virtual-robot)
@@ -15,13 +16,39 @@
 
 ---
 
-### Installing Choreographe
+### Installing Choreographe - Windows
 
 1. **Download the setup file**\
+  If you're installing Choreographe on a Windows machine, the setup file is easier to install.\
   You can download the setup file [here](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares).
  
  2. **Run the installer**\
-   Run the file you just downloaded.
+  Run the file you just downloaded.
+   
+  *For a more detailed guide to the installation check the [official documentation](http://doc.aldebaran.com/1-14/software/installing.html).*
+
+---
+
+### Installing Choreographe - Linux
+
+1. **Download the setup file**\
+  If you're installing Choreographe on a Linux machine, it's better to donwload the binaries.\
+  You can download the binaries [here](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares).
+ 
+ 2. **Install the binaries by command line**
+  - Type this command in your terminal:
+
+        choregraphe-suite-2.8.6.23-linux64$ ./choregraphe
+
+  - If this error occurs: 
+  
+        choregraphe-suite-2.8.6.23-linux64/bin/../lib/libz.so.1: version `ZLIB_1.2.9' not found (required by /lib/x86_64-linux-gnu/libpng16.so.16)
+  
+    Type the following commands:
+  
+        choregraphe-suite-2.8.6.23-linux64/lib$ sudo mv libz.so.1 libz.so.1.old
+        choregraphe-suite-2.8.6.23-linux64/lib$ sudo ln -s /lib/x86_64-linux-gnu/libz.so.1
+        choregraphe-suite-2.8.6.23-linux64/lib$ ./choregraphe
    
    *For a more detailed guide to the installation check the [official documentation](http://doc.aldebaran.com/1-14/software/installing.html).*
 
